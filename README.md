@@ -1,2 +1,2 @@
 # PA_2025
-repositório destinado ao aprendizado de lógica programação
+Repositório destinado ao aprendizado de lógica programação
